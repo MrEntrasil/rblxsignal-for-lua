@@ -18,6 +18,6 @@ dependencies = {
 build = {
    type = "builtin",
    modules = {
-      ["Rblx_signal"] = "/rblxsignal.lua"
+      ["Rblx_signal"] = "rblxsignal.lua"
    }
 }
