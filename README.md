@@ -1,8 +1,9 @@
 # Welcome to rblxsignal for lua repo!
 
 ## Install luarocks:
+https://github.com/luarocks/luarocks/wiki/Download or
 ```
-https://github.com/luarocks/luarocks/wiki/Download
+$ sudo apt install luarocks
 ```
 
 ## Run to install the API:
