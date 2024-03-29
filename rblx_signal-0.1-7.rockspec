@@ -1,7 +1,7 @@
 package = "Rblx_signal"
 version = "0.1-7"
 source = {
-   url = "",
+   url = "git://github.com/MrEntrasil/rblxsignal-for-lua",
    tag = "v0.1",
 }
 description = {
