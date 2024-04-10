@@ -1,3 +1,5 @@
+![Banner](https://github.com/MrEntrasil/rblxsignal-for-lua/images/banner.png)
+
 # Welcome to rblxsignal for lua repo!
 
 ## Install luarocks:
