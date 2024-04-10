@@ -1,4 +1,4 @@
-![Banner](https://github.com/MrEntrasil/rblxsignal-for-lua/images/banner.png)
+![Banner](https://github.com/MrEntrasil/rblxsignal-for-lua/blob/main/images/banner.png)
 
 # Welcome to rblxsignal for lua repo!
 
